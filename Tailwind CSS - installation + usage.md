@@ -151,7 +151,7 @@ Tailwind supports a large number of variant/state selectors:
 
 Enables `@container` class which works as a "viewport" for child elements. You can reference this with `@sm` `@md` `@lg` etc.
 
-## Use cases (components)
+## Use cases
 
 Selected components with plausible use case:
 ### Masonry layout
